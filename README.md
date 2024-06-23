@@ -1,3 +1,3 @@
 # tc-codes
 <br>
-Author- Tushar Nandurkar
+Author- Tushar Nandurkar (tc developer)
